@@ -1,0 +1,112 @@
+* html body div.aside > div.section ul.menu-box a {
+    height: 24px;
+}
+div.aside {
+	/*
+	top:41px;
+	display:table-cell;
+	padding-top:13px;
+	*/
+	padding-top:15px;
+	padding-right:2px;
+	font-family:"LGB";
+}
+
+.p{
+	padding:3px 3px 3px 10px;
+}
+.p.head{
+	padding:3px 3px 3px 5px;
+	border-bottom:1px solid #ddd;
+}
+.pl{
+	padding:0 0 0 10px;
+}
+.plr{
+	padding:3px 0 10px 0;
+}
+.mt{
+	margin:3px 2px 0 2px;
+}
+div.aside > div.section{
+	padding-bottom:20px;
+}
+div.aside > div.section .head
+{
+	color:#999;
+	font-weight:700;
+}
+div.aside > div.section .p.head{
+	font-family: "LGB";
+}
+div.aside > div.section .p.head span{
+	background:#fff; 
+	padding:0 5px;
+	margin-left:5px;
+	float:right;
+	text-decoration:none;
+	
+	border-radius: 15px;
+	
+	-moz-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	
+}
+div.aside > div.section .p.head a span:hover{
+	background:#69F;
+	color:#fff;
+}
+
+div.aside > div.section .p{
+	font-family: "LG";
+}
+
+div.aside > div.section ul.menu-box {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1px
+    }
+div.aside > div.section ul.menu-box li {
+    margin: 0;
+	list-style:none;
+	height:28px;
+	line-height:27px;
+	padding-left:10px;
+	color:#d0d0d0;
+	border-right:4px solid #d0d0d0;
+	margin-bottom:1.5px;
+    }
+div.aside > div.section ul.menu-box li:hover{
+	color:#b3b3b3;
+	text-decoration:underline;
+	border-right:4px solid #b3b3b3;
+	margin-bottom:1.5px;
+}
+div.aside > div.section ul.menu-box li:active{
+	color:#797979;
+	border-right:4px solid #797979;
+	margin-bottom:1.5px;
+}
+div.aside > div.section ul.menu-box li span {
+	float: right;
+	margin-top:4px;
+	padding-left:4px;
+	color: #3B5998;
+	font-size: 8px;
+	background: #D8DFEA;
+	
+	border-radius: 3px;
+	
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+div.aside > div.section ul.menu-box li a {
+    display: block;
+	text-decoration:none;
+    }
+div.aside > div.section ul.menu-box li a:hover {
+	color:#797979;
+    }

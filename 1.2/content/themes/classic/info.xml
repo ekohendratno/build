@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<themes>
+    <name>Classic Soft</name>
+    <version>1.3.1</version>
+    <creationDate>Oktober 16, 2011</creationDate>
+    <author>Eko Azza</author>
+    <authorEmail>admin@cmsid.org</authorEmail>
+    <apiKey>9xCYY67EpHTr</apiKey>
+    <authorUrl>http://www.cmsid.org</authorUrl>
+    <copyright>${copyright}</copyright>
+    <license>${licence}</license>
+    <description>${descritpion}</description>
+</themes>

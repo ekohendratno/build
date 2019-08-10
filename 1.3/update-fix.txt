@@ -1,0 +1,19 @@
+tunggu update aja,.. ini beda update mas...
+klo pingin gak nunggu update silahkan coba ini
+
+pada content/applications/post/init.php baris ke 212-216
+
+if( $thumb ){
+	$thumb		= hash_image( $thumb );
+	upload_img_post($thumb,'post/',650,120);
+	$save_post 	= save_post($data);
+}
+
+di ubah menjadi seperti berikut:
+
+
+if( $thumb ){
+	$thumb		= hash_image( $thumb );
+	upload_img_post($thumb,'post/',650,120);
+}
+$save_post = save_post($data);

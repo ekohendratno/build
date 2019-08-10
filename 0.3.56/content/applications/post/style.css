@@ -1,0 +1,100 @@
+.comment-wrap{
+	margin-bottom:10px;
+	border-bottom:dashed 1px #dedede;
+	width:100%;
+}
+
+.comment-reply{
+	border-bottom:none;
+}
+
+.comment-img{
+	float:left;
+	height:50px;
+	width:50px;
+	border:solid 1px #dedede;
+	padding:3px;
+}
+
+.comment-img img{
+	width:50px;
+	height:50px
+}
+
+.comment-text{
+	min-height:50px;
+	padding:5px;
+	padding-right:0;
+}
+
+.comment-text b{
+	icolor:#006699;
+}
+
+.comment-time{
+	font-size:11px;
+	color:#999;
+	margin-top:5px;
+	margin-bottom:2px;
+}
+
+.comment-reply-bg{
+	border-bottom:solid 1px #fff;
+	background-color:#f7f7f7;
+	padding:5px;
+	margin-left:35px;
+	margin-top:2px;
+}
+
+.comment-reply-img{
+	height:35px;
+	width:35px;
+}
+
+.comment-reply-img img{
+	width:35px;
+	height:35px;
+}
+
+.comment-reply-text{
+	margin-left:70px;
+	min-height:40px;
+	padding:3px;
+}
+
+#list-comment{
+	max-height		:500px;
+	border-top		:0;
+}
+.comment{
+	padding			:5px;
+	padding-bottom	:7px;
+}
+.comment .name{
+	font-family		:"LGB";
+}
+.avatar{
+	float			:left;
+	margin-top		:2px;
+	margin-right	:10px;
+}
+div.comment p.row-actions :hover {
+}
+
+#table tr.isi td {
+	line-height:normal;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+#table tr.isi td a{
+	text-decoration:none;
+}
+
+div.comment_post_title{
+	padding:8px; 
+	padding-left:4px; 
+	padding-right:4px; 
+	border-bottom:solid 1px #d6d7db;
+	background-color:#f1f1f1;
+}

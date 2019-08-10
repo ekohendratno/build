@@ -1,0 +1,21 @@
+
++/admin
++/libs
++/content
+--+/plugins
+--+/uploads
+--+/themes
+----+/nama-themes
+------+/options --> (optional)
+--------+admin.php --> (optional)
+------+/images --> (optional)
+------+/css --> (optional)
+------+/js --> (optional)
+------+index.php --> (require)
+------+functions.php --> (require)
+------+page.php --> (optional)
+------+page-(category|archive|contact|galley|etc).php --> (optional)
+------+sidebar.php --> (optional)
+------+sidebar-left.php --> (optional)
+------+front.php --> (optional)
+------+404.php --> (require)

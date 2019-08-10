@@ -1,0 +1,32 @@
+#oops_body{
+	margin:0 auto;
+	width:500px;
+}
+.oops_logo{
+	font-size:24px;
+	padding:5px;
+	text-shadow:0 1px 0 #000;
+	color:#fff;
+}
+.oops_logo_atentions{
+	width:30px;
+	font-size:40px;
+	float:left;
+	margin-right:10px;
+	text-align:center;
+	padding:5px 10px;
+	font-family:"Lucida Console", Monaco, monospace;
+}
+.oops_content{
+	padding:5px;
+	
+	border-top:5px solid #34aad2;
+	margin:0 0 10px 0;
+	background:#fff;	
+	
+	box-shadow:0 0 1px #ccc;
+	-moz-box-shadow:0 0 1px #ccc;
+	-webkit-box-shadow:0 0 1px #ccc;
+	
+	min-height:50px;
+}

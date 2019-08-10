@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>  
+<left>
+#sidebar{float:right;width:220px;padding-left:1px;padding-right:10px;}
+#main{float:left;margin-left:10px;width:74%;}
+</left> 
+<right>
+#sidebar{float:left;width:220px;padding-left:10px;padding-right:5px;}
+#main{float:left;margin-left:1px;width:74%;}
+</right>
+<full>
+#main{float:left;margin-left:10px;width:97.8%;}
+</full> 
+<sleft>
+#sidebar{float:left;width:165px;padding-left:13px;padding-right:5px;}
+#rightbar{float:left;width:28%;margin-right:5px;}
+#main{float:right;margin-left:1px;width:50%;margin-right:15px;}
+</sleft>
+<sright>
+#sidebar{float:right;width:170px;padding-left:5px;padding-right:10px;padding-bottom:9px;}
+#rightbar{float:right;width:28%;margin-right:0;}
+#main{float:left;width:50%;margin-left:10px; }
+</sright>
+<center>
+#sidebar{float:left;width:165px;padding-left:13px;padding-right:5px;}
+#rightbar{float:right;width:165px;margin-right:15px;}
+#main{float:left;margin-left:1px;width:61%;}
+</center>  
+<front>
+#sidebar{float:left;width:165px;padding-left:13px;padding-right:5px;}
+#rightbar{float:right;width:28%;margin-right:15px;}
+#main{float:left;margin-left:1px;width:50.5%;}
+</front> 
+</content>

@@ -1,0 +1,35 @@
+ul.user_registered{
+}
+ul.user_registered li{
+	padding:2px;
+	border-bottom:1px solid #f2f2f2;
+	line-height:20px;
+	clear:both;
+}
+ul.user_registered li a{
+	text-decoration:none;
+}
+ul.user_registered li .user_registered_img_data{
+	float:right;
+	width:180px;
+	text-align:left;
+}
+ul.user_registered li .user_registered_img{
+	height:100%;
+	float:left;
+	margin-right:10px;
+}
+ul.user_registered li .user_registered_author{
+	margin:0;
+	padding:0;
+}
+ul.user_registered li .user_registered_email{
+	margin:0;
+	padding:0;
+}
+ul.user_registered li img{
+	padding:2px;
+}
+ul.user_registered li:hover{
+	background:#f5f5f5;
+}

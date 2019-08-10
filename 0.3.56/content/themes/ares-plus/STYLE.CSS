@@ -1,0 +1,15 @@
+/*   
+	Theme Name: Default ID
+	Theme URI: http://cmsid.org
+	Description: A news portal theme designed by Org Theme.
+	Author: Eko
+	Author URI: http://cmsid.org
+	Version: 1.0
+	Tags:  four-columns, advertise-ready, widget-ready, advanced-theme-options
+*/
+*{ padding:0; margin:0;}
+body{
+	background-color:#e4e4e4;
+	font-family: Verdana, Arial, Helvetica, sans-serif;;
+	font-size:12px;
+}

@@ -1,0 +1,13 @@
+div.aside{ width:140px; }
+div.nav > div.nav-top { width:960px; }
+	
+.body-content{ width:820px; }
+.gd.full{ width:820px; }
+.gd.full-single{ width:550px; margin:0 auto; margin-bottom:10px; }
+/*.gd, .column{ width:395px; }*/
+	
+#post-left{ width:570px; }
+#post-right{ width:230px; }
+#body{ width:960px; }
+#widget{ width:180px; }
+#content{ width:620px; }

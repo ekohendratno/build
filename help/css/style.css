@@ -1,0 +1,128 @@
+*{ margin:0; padding:0; }
+a{ text-decoration:none;}
+body{
+	background:#f8f8f8;
+}
+#body-wrap{
+	width:100%;
+	height:100%;
+}
+
+#body-menu,#body-content{
+	background:#fff;
+	margin-right:5px;
+}
+
+#body-menu{
+	float:left;
+	width:23%;
+	height:100%;
+	border-bottom:1px solid #fff;
+}
+
+#body-content{
+	float:right;
+	width:75%;
+	height:100%;
+	background:none;
+}
+
+#body-widget{
+	width:100%;
+	height:100%;
+}
+
+#body-widget .box{
+	border:1px solid #eaeaea;
+	border-top:0;
+}
+#body-widget .box-head{
+	background:#f2f2f2;
+	border-top:1px solid #fff;
+	border-bottom:1px solid #ddd;
+	padding:10px 5px;
+	font-family: "LGB";
+}
+#body-widget .box-content{
+	background:#fff;
+	padding:0;
+}
+
+#body-menu ul{
+	overflow:none;
+	list-style:none;
+}
+
+#body-menu ul li{
+}
+
+#body-menu ul li a{
+	display:block;
+	padding:5px;
+	background:#e9e8e8;
+	border-bottom:1px solid #fff;
+}
+
+#body-menu ul li a:hover{
+	background:#efefef;
+}
+
+#body-menu ul li a .body-menu-head{
+	font-size:18px;
+	font-family: "LGB";
+}
+
+#body-menu ul li a .body-menu-desc{
+	font-family: "LG";
+	color:#474747;
+}
+
+.page-welcome{
+	height:100%;
+	width:100%;
+}
+.page-welcome-icon{
+	width:174px;
+	height:174px;
+	margin:100px auto 0 auto;
+	background: url(../img/help-guide.png) center no-repeat;
+}
+
+.page-welcome-icon{	
+	opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.page-welcome-icon:hover{
+      opacity: 0.5;
+}
+
+.page-wrap{
+	background:#fff;
+	border-right:0;
+	border:1px solid #ddd;
+	border-top:0;
+	padding-bottom:20px;
+	margin-bottom:20px;
+}
+
+.page-head h1{
+	font-family: "LGB";
+	background:#f2f2f2;
+	padding:10px 5px;
+	border-top:1px solid #fff;	
+}
+
+.page-content{
+	padding:5px;
+}
+
+.page-author{
+	padding:5px;
+}
+
+.clear{
+	clear:both;
+}

@@ -1,0 +1,2 @@
+new: feature return or echo for the_favicon function
+fix: show post approved or no approved in list

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<themes>
+    <name>Ares Plus</name>
+    <version>1.1</version>
+    <creationDate>Janiari 16, 2013</creationDate>
+    <author>Eko Azza</author>
+    <authorEmail>admin@cmsid.org</authorEmail>
+    <authorUrl>http://www.cmsid.org</authorUrl>
+    <copyright>2013</copyright>
+    <license>GPL</license>
+  <description>Ini adalah themes hasil dari pengembangan themes cms tetangga yang diporting agar bisa berjalan di cmsid
+  </description>
+</themes>

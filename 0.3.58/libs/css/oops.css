@@ -1,0 +1,41 @@
+#oops_body{
+	margin:30px auto 0 auto;
+	width:500px;
+}
+.oops_logo{
+	font-size:24px;
+	padding:5px;
+	text-shadow:1px 1px 1px #000;
+	color:#fff;
+	font-family:"LGB";
+}
+.oops_logo_atentions{
+	width:30px;
+	height:100px;
+	font-size:40px;
+	float:left;
+	margin-top:10px;
+	margin-right:10px;
+	text-align:center;
+	padding:5px 10px;
+	font-family:"LGB";
+}
+.oops_content{
+	padding:5px;
+	
+	border-top:10px solid #fbb805;
+	margin:0 0 10px 0;
+	background:#fff;	
+	
+	box-shadow:0 0 1px #ccc;
+	-moz-box-shadow:0 0 1px #ccc;
+	-webkit-box-shadow:0 0 1px #ccc;
+	
+	min-height:50px;
+	font-family:"LG";
+}
+
+.oops_content h1{
+	font-size:14px;
+	font-family:"LGB";
+}

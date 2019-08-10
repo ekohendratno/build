@@ -1,0 +1,8 @@
+.radius{
+	-moz-border-radius: 40px;
+	-khtml-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	behavior: url(border-radius.htc);
+	border:solid 1px #676666;
+}
